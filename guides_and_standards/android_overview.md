@@ -31,6 +31,11 @@ TODO
 * Java 1.8
 * Git
 
+## Project Architecture
+
+* Clean Architecture - using Domain, Data, and Presentation layers.
+* MVP Pattern
+
 # Anything Else
 
 Always: https://developer.android.com
