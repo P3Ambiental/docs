@@ -46,8 +46,21 @@ Further Resources:
 * https://android.jlelse.eu/a-complete-idiots-guide-to-clean-architecture-2422f428946f
 * https://proandroiddev.com/creating-clean-architecture-multi-project-mvp-app-34d753a187ad
 
-# Anything Else
+## Anything Else
 
 Always: https://developer.android.com
 
 Any divergance will be documented. 
+
+# Contributing
+
+## Workflow
+
+* Make your own branch. Format it as `dev_githubhandle`. Single underscore in branch name - between `dev` and your github handle. Make sure the branch name is entirely lowercase.
+* Make frequent pull requests against `development`
+* delete your branch when done
+
+## Commit Message
+
+https://chris.beams.io/posts/git-commit/
+
