@@ -39,7 +39,7 @@ TODO
 
 Resource: https://dev.to/wahibhaq/a-brief-summary-of-thoughts-on-clean-architecture-and-mvp-48h9
 
-The android project will utilise the Clean Architecture and have a Domain, Data, and Presentation Layersayer. Each of these layers be a distinctive module respectively. The Domain Layer will be a Java Library module. The Data Layer will be an Android Library module. The Presentation Layer will utilise the default `app` module created by default by Android Studio for new Projects. 
+The android project will utilise the Clean Architecture and have a Domain, Data, and Presentation layers. Each of these layers be a distinctive module respectively. The Domain Layer will be a Java Library module. The Data Layer will be an Android Library module. The Presentation Layer will utilise the default `app` module created by Android Studio for new Projects. 
 
 Further Resources:
 
