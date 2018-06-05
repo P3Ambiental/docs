@@ -4,6 +4,14 @@ Follow: https://google.github.io/styleguide/javaguide.html
 
 Anything change will be added to this section
 
+# Naming
+
+* No shortened words anywhere unless otherwise specified - e.g. no btn, attr, ic, or anything else. Use full word all the time everywhere.
+
+## File Naming
+
+Follow: https://github.com/P3Ambiental/docs/blob/master/guides_and_standards/android_filenaming.md
+
 # Best practices
 
 Follow: https://developer.android.com/distribute/best-practices/
