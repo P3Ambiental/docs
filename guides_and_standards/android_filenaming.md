@@ -1,6 +1,6 @@
 ## 1.1 Most important rule
 
-No shortend words anywhere unless otherwise specified - e.g. no btn, attr, ic, or anything else. Use full word all the time everywhere.
+No shortened words anywhere unless otherwise specified - e.g. no btn, attr, ic, or anything else. Use full word all the time everywhere.
 
 ## 1.2 File naming
 
