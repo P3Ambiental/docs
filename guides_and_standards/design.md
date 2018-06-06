@@ -23,4 +23,4 @@
 
 * Give them rounded corners. These should have the same radius as the buttons.
 * A field should take up 80% of screen width.
-* The height of the fields needs to be larger. Firstly so that the content is easy to read and secondly as they should not just look like normal form fields.
+* The height of the fields needs to be larger. Firstly so that the content is easy to read and secondly as they should not just look like normal form fields. They should be standardised across the app. i.e. the same on each page.
