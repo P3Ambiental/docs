@@ -31,4 +31,8 @@
 
 # Completed Page Layouts
 
-* When you feel that the page you have been working on is finished, or if you are unsure about the design. Emails a screen shot directly to Jules. Jules@p3ambiental.es
+* When you feel that the page you have been working on is finished, or if you are unsure about the design. Email a screen shot directly to Jules. Jules@p3ambiental.es
+
+# Other
+
+* If you need anything to do with the design send a message to Jules directly.
