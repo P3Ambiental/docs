@@ -17,4 +17,4 @@
 ## Form Fields
 
 * Give them rounded corners
-* A field should take up 80% of screen. 
+* A field should take up 80% of screen width.
