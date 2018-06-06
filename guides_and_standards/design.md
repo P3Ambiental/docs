@@ -35,4 +35,4 @@
 
 # Other
 
-* If you need anything to do with the design ping @jules in the #design channel and start a discussion there. 
+* If you need anything else to do with the design ping @jules in the #design channel and start a discussion there. 
