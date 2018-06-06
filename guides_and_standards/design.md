@@ -4,6 +4,9 @@
 * Dark Green - #4eab47
 * Logo Green - #0e9246
 
+# Corporate Image
+* The main Binit logo or the smaller Binit "B" should appear on all pages.
+
 # Font
 
 * Futura
