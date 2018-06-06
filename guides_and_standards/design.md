@@ -2,7 +2,7 @@
 
 * Background - #b1daaf
 * Dark Green - #4eab47
-The above colours are the P3 Ambiental Corporate colours
+* (The above colours are the P3 Ambiental Corporate colours)
 
 * Logo Green - #0e9246
 
