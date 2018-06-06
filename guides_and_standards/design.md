@@ -6,7 +6,7 @@
 
 # Font
 
-* Futura 
+* Futura
 
 # Other Guidelines
 
@@ -16,5 +16,6 @@
 
 ## Form Fields
 
-* Give them rounded corners
+* Give them rounded corners. These should have the same radius as the buttons.
 * A field should take up 80% of screen width.
+* The height of the fields needs to be larger. Firstly so that the content is easy to read and secondly as they should not just look like normal form fields.
