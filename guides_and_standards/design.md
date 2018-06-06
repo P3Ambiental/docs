@@ -1,3 +1,7 @@
+# General
+
+* I realise we are working on different platforms and there will be differences espcailly on colours on different devices. We do need to be aware of each others work. So that the look and feel of the apps are not vastly different (I have often seen this).
+
 # Binit Colours
 
 * Background - #b1daaf
