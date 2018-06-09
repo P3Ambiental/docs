@@ -19,5 +19,14 @@ Follow: [User Interface Testing](https://developer.apple.com/library/content/doc
 # General Development Environment and Details
 
 - Xcode - The app will be writen in Swift as it faster and uses less code
-- IOS 9.0
+- IOS 10.0
 - git
+
+# dependencies
+This project uses cocoapods as dependency manager and includes the following dependencies
+- RxSwift
+- GoogleMaps
+- RxGesture
+- SwiftLocation
+- GoogleSignIn
+- FacebookLogin
