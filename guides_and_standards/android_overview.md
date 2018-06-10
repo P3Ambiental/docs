@@ -65,9 +65,9 @@ Any divergance will be documented.
 ## Workflow
 
 * Make your own development branch. Checkout from `development`. 
-* Format your branch as `dev_githubhandle`. Single underscore in branch name - between `dev` and your github handle. Make sure the branch name is entirely lowercase.
-* Do make direct pull requests with `master`.
-* Make frequent pull requests against `development`
+* Format your branch name as `dev_githubhandle`. Single underscore between `dev` and your github handle. Make sure the branch name is entirely lowercase.
+* Do not make direct pull requests with `master`.
+* Make frequent pull requests with `development`
 
 
 ## Commit Message
