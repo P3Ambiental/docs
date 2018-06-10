@@ -65,6 +65,7 @@ Any divergance will be documented.
 ## Workflow
 
 * Make your own branch. Format it as `dev_githubhandle`. Single underscore in branch name - between `dev` and your github handle. Make sure the branch name is entirely lowercase.
+* Do make direct pull requests with `master`.
 * Make frequent pull requests against `development`
 * delete your branch when done
 
