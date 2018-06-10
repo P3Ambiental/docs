@@ -1,6 +1,6 @@
 # General
 
-* We are working on different platforms and there will, of course, be differences especially in the colours when viewed on different devices. We do, however, need to be aware of each others work. So that the look and feel of the apps are not vastly different.
+* We are working on different platforms and there will, of course, be differences especially in the colours when viewed on different devices. We do, however, need to be aware of each other's work. So that the look and feel of the apps are not vastly different.
 
 # Binit Colours
 
@@ -13,13 +13,19 @@
 # Corporate Image
 * The main Binit logo or the smaller Binit "B" should appear on all pages.
 
-# Font
+# Graphics
+
+* We should minimise the use of graphic elements in the app. Obviously, items such as logos will need to be a graphic. Where possible use fonts as indicated below. For icons, we will be using font awesome and for all other graphics please use CSS, XML, Html. 
+
+# Fonts
 
 * Futura
+* Javacom (The Rubbish App)
+* Noteworthy Light (Be the Solution!)
 
 # Other Guidelines
 
-* Implement excatly what is shown in the mockups. If you want to change something or add something, let us know. 
+* Implement as close as possible to what is shown in the mockups. If you want to change something or add something, let us know. 
 * Make things big - Text entry fields, buttons, etc.
 * Make things with ease of touch, reading, and navigation in mind.
 
@@ -27,7 +33,7 @@
 
 * Give them rounded corners. These should have the same radius as the buttons.
 * A field should take up 80% of screen width.
-* The height of the fields needs to be larger. Firstly so that the content is easy to read and secondly as they should not just look like normal form fields. They should be standardised across the app. i.e. the same on each page.
+* The height of the fields needs to be larger than normal. Firstly so that the content is easy to read and secondly as they should not just look like normal form fields. They should be standardised across the app. i.e. the same on each page.
 
 # Completed Page Layouts
 
