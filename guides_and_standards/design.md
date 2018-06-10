@@ -15,13 +15,13 @@
 
 # Graphics
 
-* We should minimise the use of graphic elements in the app. Obviously, items such as logos will need to be a graphic. Where possible use fonts as indicated below. For icons, we will be using font awesome and for all other graphics please use CSS, XML, HTML. 
+* We should minimise the use of graphic elements in the app. Obviously, items such as logos will need to be a graphic. Where possible use fonts as indicated below. For icons, we will be using fontawesome (https://fontawesome.com/) and for all other graphics please use CSS, XML, HTML. 
 
 # Fonts
 
 * Futura
-* Javacom (The Rubbish App)
-* Noteworthy Light (Be the Solution!)
+* Javacom (The Rubbish App) https://www.dafont.com/javacom.font
+* Noteworthy Light (Be the Solution!) http://www.cufonfonts.com/en/font/14469/noteworthy
 
 # Other Guidelines
 
