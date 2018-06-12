@@ -19,7 +19,7 @@
 
 # Font Awesome
 
-* Some font awesome icon codes that can be used to replace the graphis assets that I have used in my initial design.
+* Some font awesome icon codes that can be used to replace the graphic assets.
 * Add a point - plus-circle
 * Search - search
 * Group - users
