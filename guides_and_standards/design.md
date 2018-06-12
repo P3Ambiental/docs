@@ -17,6 +17,31 @@
 
 * We should minimise the use of graphic elements in the app. Obviously, items such as logos will need to be a graphic. Where possible use fonts as indicated below. For icons, we will be using fontawesome (https://fontawesome.com/) and for all other graphics please use CSS, XML, HTML. 
 
+# Font Awesome
+
+* Some font awesome icon codes that can be used to replace the graphis assets that I have used in my initial design.
+* Add a point - plus-circle
+* Search - search
+* Group - users
+* User - user-circle
+* Settings - cog
+* Message - envelope
+* Email - at
+* Tree - tree
+* Building - building
+* Information - info-circle
+* Camera - camera
+* Edit - pencil-alt
+* Trashcan - trash-alt
+* View - eye
+* Facebook - facebook-square
+* Google Plus - google-plus-square
+* Twitter - twitter-square
+* Instagram - instagram
+* Youtube - youtube-square
+* Thumbs up - thumbs-up
+
+
 # Fonts
 
 * Futura
