@@ -40,7 +40,7 @@
 * Instagram - instagram
 * Youtube - youtube-square
 * Thumbs up - thumbs-up
-
+* Recycle logo - recycle
 
 # Fonts
 
