@@ -44,7 +44,7 @@
 
 # Fonts
 
-* Futura
+## Futura
 
 **Source**: https://www.wfonts.com/font/futura
 
@@ -52,11 +52,11 @@ Bold: Futura Bold font.ttf
 
 Medium: futura medium bt.ttf
 
-* Javacom ("The Rubbish App" text on the language page) 
+## Javacom ("The Rubbish App" text on the language page) 
 
 **Source**: https://www.dafont.com/javacom.font
 
-* Noteworthy Light ("Be the Solution!" text on the main page) 
+## Noteworthy Light ("Be the Solution!" text on the main page) 
 
 **Source**: http://www.cufonfonts.com/en/font/14469/noteworthy
 
