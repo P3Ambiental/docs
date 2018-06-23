@@ -45,8 +45,20 @@
 # Fonts
 
 * Futura
-* Javacom ("The Rubbish App" text on the language page) https://www.dafont.com/javacom.font
-* Noteworthy Light ("Be the Solution!" text on the main page) http://www.cufonfonts.com/en/font/14469/noteworthy
+
+**Source**: https://www.wfonts.com/font/futura
+
+Bold: Futura Bold font.ttf
+
+Medium: futura medium bt.ttf
+
+* Javacom ("The Rubbish App" text on the language page) 
+
+**Source**: https://www.dafont.com/javacom.font
+
+* Noteworthy Light ("Be the Solution!" text on the main page) 
+
+**Source**: http://www.cufonfonts.com/en/font/14469/noteworthy
 
 # Other Guidelines
 
