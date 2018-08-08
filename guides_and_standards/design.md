@@ -15,9 +15,11 @@
 
 # Graphics
 
-* We should minimise the use of graphic elements in the app. Obviously, items such as logos will need to be a graphic. Where possible use fonts as indicated below. For icons, we will be using fontawesome (https://fontawesome.com/) 
+There are currently 4 out of 5 custom graphics that should be used throughout the currently defined phases. The custom graphics can be accessed here: https://goo.gl/uQZ5Vz
 
-# Font Awesome
+For anything else, Font Awesome will be heavily utilised. Anything else that will be needed for this will be added to this document.
+
+## Font Awesome
 
 * Some font awesome icon codes that can be used to replace the graphic assets.
 * Add a point - plus-circle
