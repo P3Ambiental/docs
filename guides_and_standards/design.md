@@ -17,7 +17,7 @@
 
 There are currently 4 out of 5 custom graphics that should be used throughout the currently defined phases -Phase 1 through 3. The custom graphics can be accessed here: https://goo.gl/uQZ5Vz
 
-For anything else, Font Awesome will be heavily utilised. Anything else that will be needed for this will be added to this document.
+Font Awesome will be utilised for any other "graphics" need. Anything else that may be needed will be added to this document.
 
 ## Font Awesome
 
