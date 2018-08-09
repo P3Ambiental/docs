@@ -15,7 +15,7 @@
 
 # Graphics
 
-There are currently 4 out of 5 custom graphics that should be used throughout the currently defined phases -Phase 1 through 3. The custom graphics can be accessed here: https://goo.gl/uQZ5Vz
+There are currently 5 out of 6 -everything except the French icon- custom graphics that should be used throughout the currently defined phases -Phase 1 through 3. The custom graphics can be accessed here: https://goo.gl/uQZ5Vz
 
 Font Awesome will be utilised for any other "graphics" need. Anything else that may be needed will be added to this document.
 
