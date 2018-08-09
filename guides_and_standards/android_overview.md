@@ -44,8 +44,8 @@ TODO
 
 ### Phase 1: Target Pixel XL
 
-Emulator: Pixel XL, API 15, Android 4.03 (Google APIs)
-Device in Editor: Pixel XL, API 15
+* Emulator: Pixel XL, API 15, Android 4.03 (Google APIs)
+* Device in Editor: Pixel XL, API 15
 
 ## Project Architecture
 
