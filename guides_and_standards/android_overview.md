@@ -40,6 +40,13 @@ TODO
 * Java 1.8
 * Git
 
+## Emulators and Device in Editor
+
+### Phase 1: Target Pixel XL
+
+Emulator: Pixel XL, API 15, Android 4.03 (Google APIs)
+Device in Editor: Pixel XL, API 15
+
 ## Project Architecture
 
 * [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) - using Domain, Data, and Presentation layers.
@@ -74,3 +81,7 @@ Any divergance will be documented.
 
 https://chris.beams.io/posts/git-commit/
 
+
+# Phases and Versioning
+
+TODO
